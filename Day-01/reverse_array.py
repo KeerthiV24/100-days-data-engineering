@@ -25,3 +25,11 @@ print("Original Array:", arr)
 reversed_array = reverse_array(arr)
 
 print("Reversed Array:", reversed_array)
+
+""" Method 2: Using Python Slicing (Shortest)"""
+
+arr = [10, 20, 30, 40, 50]
+
+reversed_array = arr[::-1]
+
+print(reversed_array)
