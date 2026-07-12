@@ -19,7 +19,7 @@ This repository documents my journey to become a **Data Engineer** by learning D
 
 ## 📅 Progress
 
-| Day | Data Engineering Topic | DSA Problems | Status |
+| Day | Data Engineering Topic | DSA with python Problems | Status |
 |-----|------------------------|--------------|--------|
 | Day 01 | Introduction to Databases | Maximum & Minimum Element in an Array, Reverse the Array | ✅ |
 
