@@ -1,0 +1,24 @@
+# 📘 Day 02 - SQL
+
+## Topic: Database Design Basics
+
+### Topics Studied
+
+* Entity
+* Attribute
+* Relationship
+* Cardinality
+
+  * One-to-One (1:1)
+  * One-to-Many (1:M)
+  * Many-to-Many (M:M)
+* ER (Entity-Relationship) Diagrams
+* Business Rules
+* Data Modeling Basics
+* Mapping Business Requirements to Tables
+
+---
+
+## ✅ Status
+
+Completed Day 02 Database Design Basics.
