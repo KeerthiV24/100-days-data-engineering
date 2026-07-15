@@ -1,0 +1,25 @@
+# Day 04 - SQL Query Fundamentals
+
+## Topics Covered
+- SELECT
+- FROM
+- DISTINCT
+- Column Aliases (AS)
+- Arithmetic Operations
+- Expressions
+- Data Types
+- Query Execution Flow
+- SQL Syntax Standards
+
+## Files
+- `01_SELECT_FROM.sql`
+- `02_DISTINCT.sql`
+- `03_COLUMN_ALIASES.sql`
+- `04_ARITHMETIC_OPERATIONS.sql`
+- `05_EXPRESSIONS.sql`
+- `06_DATA_TYPES.sql`
+- `07_QUERY_EXECUTION_FLOW.sql`
+- `08_SQL_SYNTAX_STANDARDS.sql`
+
+---
+✅ **Day 04 Completed**
