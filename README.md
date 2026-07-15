@@ -24,6 +24,7 @@ This repository documents my journey to become a **Data Engineer** by learning D
 | Day 01 | Introduction to Databases | Maximum & Minimum Element in an Array, Reverse the Array | ✅ |
 | Day 02 | Database Design Basics | Maximum Subarray, Contains Duplicate | ✅ |
 | Day 03 | Keys & Constraints | Chocolate Distribution Problem, Search in Rotated Sorted Array | ✅ |
+| Day 04 | SQL Query Fundamentals | Next Permutation, Best Time to Buy and Sell Stock | ✅ |
 
 
 
