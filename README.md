@@ -25,6 +25,7 @@ This repository documents my journey to become a **Data Engineer** by learning D
 | Day 02 | Database Design Basics | Maximum Subarray, Contains Duplicate | ✅ |
 | Day 03 | Keys & Constraints | Chocolate Distribution Problem, Search in Rotated Sorted Array | ✅ |
 | Day 04 | SQL Query Fundamentals | Next Permutation, Best Time to Buy and Sell Stock | ✅ |
+| Day 05 | Data Filtering & Conditional Logic | Repeat and Missing Number Array, Kth Largest Element in an Array | ✅ |
 
 
 
