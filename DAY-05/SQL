@@ -1,0 +1,13 @@
+# Day 05 - Data Filtering & Conditional Logic
+
+## Topics Covered
+- WHERE Clause
+- AND, OR, NOT
+- IN, NOT IN
+- BETWEEN
+- LIKE & Wildcards (`%`, `_`)
+- IS NULL, IS NOT NULL
+- CASE WHEN
+
+---
+✅ **Day 05 Completed**
