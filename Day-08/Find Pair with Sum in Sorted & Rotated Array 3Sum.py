@@ -1,3 +1,22 @@
+"""
+Problem: Find Pair with Sum in Sorted & Rotated Array
+
+Problem Statement:
+Given a sorted and rotated array and a target value, find whether there
+is a pair of numbers whose sum is equal to the target.
+
+Return True if a pair exists, otherwise return False.
+
+Example:
+Input:
+arr = [11, 15, 6, 8, 9, 10]
+target = 16
+
+Output:
+True
+"""
+
+
 def pair_in_sorted_rotated(arr, target):
     n = len(arr)
 
