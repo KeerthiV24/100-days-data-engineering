@@ -28,6 +28,9 @@ This repository documents my journey to become a **Data Engineer** by learning D
 | Day 05 | Data Filtering & Conditional Logic | Repeat and Missing Number Array, Kth Largest Element in an Array | ✅ |
 
 
+| Day 08 | Joins Fundamentals | Find Pair with Sum in Sorted & Rotated Array, 3Sum | ✅ |
+
+
 
 ---
 
