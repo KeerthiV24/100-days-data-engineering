@@ -1,19 +1,18 @@
 """
-Problem: Find Pair with Sum in Sorted & Rotated Array
+Problem: 3Sum
 
 Problem Statement:
-Given a sorted and rotated array and a target value, find whether there
-is a pair of numbers whose sum is equal to the target.
+Given an array of integers, find all unique triplets whose sum is equal
+to 0.
 
-Return True if a pair exists, otherwise return False.
+Return the list of unique triplets.
 
 Example:
 Input:
-arr = [11, 15, 6, 8, 9, 10]
-target = 16
+nums = [-1, 0, 1, 2, -1, -4]
 
 Output:
-True
+[[-1, -1, 2], [-1, 0, 1]]
 """
 
 
