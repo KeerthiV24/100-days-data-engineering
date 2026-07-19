@@ -26,8 +26,8 @@ This repository documents my journey to become a **Data Engineer** by learning D
 | Day 03 | Keys & Constraints | Chocolate Distribution Problem, Search in Rotated Sorted Array | ✅ |
 | Day 04 | SQL Query Fundamentals | Next Permutation, Best Time to Buy and Sell Stock | ✅ |
 | Day 05 | Data Filtering & Conditional Logic | Repeat and Missing Number Array, Kth Largest Element in an Array | ✅ |
-
-
+| Day 06 | Sorting, Aggregation & Grouping | Trapping Rain Water, Product of Array Except Self | ✅ |
+| Day 07 | Single Table SQL Operations | Maximum Product Subarray, Find Minimum in Rotated Sorted Array | ✅ |
 | Day 08 | Joins Fundamentals | Find Pair with Sum in Sorted & Rotated Array, 3Sum | ✅ |
 
 
