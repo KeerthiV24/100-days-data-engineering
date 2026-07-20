@@ -1,0 +1,35 @@
+""" 📝 Problem Statement
+
+Given an integer array height of length n, where each element represents the height of a vertical line, find two lines that together with the x-axis form a container capable of holding the maximum amount of water.
+
+Return the maximum amount of water that can be stored.
+
+Input:
+height = [1,8,6,2,5,4,8,3,7]
+
+Output:
+49
+
+"""
+
+def maxArea(height):
+    left = 0
+    right = len(height) - 1
+    max_water = 0
+
+    while left < right:
+        width = right - left
+        current_area = min(height[left], height[right]) * width
+        max_water = max(max_water, current_area)
+
+        if height[left] < height[right]:
+            left += 1
+        else:
+            right -= 1
+
+    return max_water
+
+
+# Example
+height = [1,8,6,2,5,4,8,3,7]
+print(maxArea(height))
