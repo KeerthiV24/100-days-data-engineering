@@ -1,0 +1,22 @@
+# 📅 Day 10 - Subqueries & Set Operators
+
+## 📚 Topics Covered
+
+- Scalar Subqueries
+- Multi-row Subqueries
+- Correlated Subqueries
+- EXISTS
+- NOT EXISTS
+- UNION
+- UNION ALL
+- INTERSECT
+- EXCEPT (SQL Server/PostgreSQL) / MINUS (Oracle)
+
+## 🎯 Learning Outcome
+
+- Learned how to write different types of subqueries.
+- Understood the difference between scalar, multi-row, and correlated subqueries.
+- Used EXISTS and NOT EXISTS to filter data based on related records.
+- Combined query results using UNION and UNION ALL.
+- Found common and different records using INTERSECT and EXCEPT/MINUS.
+
