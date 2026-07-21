@@ -20,3 +20,5 @@
 - Combined query results using UNION and UNION ALL.
 - Found common and different records using INTERSECT and EXCEPT/MINUS.
 
+**Status:** ✅ Completed
+
